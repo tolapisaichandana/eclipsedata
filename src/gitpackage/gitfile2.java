@@ -1,8 +1,8 @@
-class file2
+public class file2
 {
-  public static void main(string[] args)
+  public static void main(String[] args)
   {
-    system.out.ptintln("hi");
-    system.out.println("welcome");
+    System.out.println("hi");
+    System.out.println("welcome");
   }
 }
